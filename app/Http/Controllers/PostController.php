@@ -44,6 +44,7 @@ class PostController extends Controller
 
         $post->title = $request->title;
         $post->description = $request->description;
+        $post->imagePath = $request->image;
         $post->save();
 
         return response()->json([

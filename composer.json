@@ -10,11 +10,8 @@
     "require": {
         "php": "^7.2.5",
         "fideloper/proxy": "4.3.0",
-        "fruitcake/laravel-cors": "1.0.6",
+        "fruitcake/laravel-cors": "2.0.1",
         "guzzlehttp/guzzle": "6.5.3",
-        "laravel/framework": "7.22.4",
-        "laravel/tinker": "2.4.0",
-        "laravel/ui": "2.0.3"
     },
     "require-dev": {
         "facade/ignition": "2.0.2",

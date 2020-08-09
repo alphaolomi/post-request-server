@@ -1,9 +1,8 @@
-<div align="center">
+<h1 align="center">Post Request Server</h1>
 
-# Post Request Server
 
-</div>
+<p align="center">    <img src="https://github.com/NchyG/post-request-server/workflows/Laravel/badge.svg" alt="Laravel" > </p>
 
-![Laravel](https://github.com/NchyG/post-request-server/workflows/Laravel/badge.svg)
 
 This is server for post request app
+

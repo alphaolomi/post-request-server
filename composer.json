@@ -1,10 +1,9 @@
 {
-    "name": "laravel/laravel",
+    "name": "gordonnchy/post-request-server",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "post server.",
     "keywords": [
-        "framework",
-        "laravel"
+
     ],
     "license": "MIT",
     "require": {
@@ -13,14 +12,15 @@
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^6.3",
         "laravel/framework": "^7.24",
-        "laravel/tinker": "^2.0"
+        "laravel/tinker": "^2.0",
+        "laravel/ui": "^2.1"
     },
     "require-dev": {
-        "facade/ignition": "2.0.2",
-        "fzaninotto/faker": "1.9.1",
-        "mockery/mockery": "1.3.1",
-        "nunomaduro/collision": "4.2.0",
-        "phpunit/phpunit": "9.1.4"
+        "facade/ignition": "^2.0",
+        "fzaninotto/faker": "^1.9.1",
+        "mockery/mockery": "^1.3.1",
+        "nunomaduro/collision": "^4.1",
+        "phpunit/phpunit": "^8.5"
     },
     "config": {
         "optimize-autoloader": true,

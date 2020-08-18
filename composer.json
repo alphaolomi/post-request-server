@@ -2,9 +2,7 @@
     "name": "gordonnchy/post-request-server",
     "type": "project",
     "description": "post server.",
-    "keywords": [
-
-    ],
+    "keywords": [],
     "license": "MIT",
     "require": {
         "php": "^7.2.5",
